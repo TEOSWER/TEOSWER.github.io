@@ -5,6 +5,9 @@ body{
 	font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
 	font-size:0.8em;
 	background-color: cadetblue;
+    background-image:url("sakura.gif");
+    background-repeat: no-repeat;
+	background-size:100%;
 }
 
 a{
